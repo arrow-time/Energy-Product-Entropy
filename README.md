@@ -1,14 +1,14 @@
 # Energy-Product-Entropy
 
-Energy Product Entropy VS Statistical Entropy
+## Energy Product Entropy – Tracing the Stepwise Homogenization of Energy Toward Equilibrium
 
 -An Analytic Quantum Thermodynamics perspective
 
 ## Abstract:
 
-This paper introduces a novel entropy formulation — multiplicative entropy — defined as the product of energy values across all units in a quantized homogeneous invariant network. Unlike traditional statistical entropy, this approach explicitly tracks irreversible energy redistribution pathways, offering an analytic and path-dependent description of entropy growth. Logarithmic transformation recovers classical entropy forms, while preserving temporal directionality and quantum-scale resolution. The model enables precise simulation of thermodynamic processes, supporting the development of Analytic Quantum Thermodynamics as a new framework for understanding entropy-driven dynamics.
+This paper presents a new entropy formulation called multiplicative entropy, defined as the product of energy values over all units in a quantized homogeneous invariant network. In contrast to conventional statistical entropy, this approach explicitly captures irreversible energy redistribution pathways, providing an analytic and path-dependent characterization of entropy increase. Applying a logarithmic transformation recovers classical entropy expressions while maintaining temporal directionality and quantum-scale precision. The proposed model allows for accurate simulation of thermodynamic processes, advancing the foundation of Analytic Quantum Thermodynamics as a novel framework for studying entropy-driven dynamics.
 
-Keywords: Multiplicative Entropy; Energy Product Entropy; Analytic Entropy; Computable Entropy; Entropy Coordinate; Analytic Quantum Thermodynamics
+## Keywords: Multiplicative Entropy; Energy Product Entropy; Analytic Entropy; Computable Entropy; Entropy Coordinate; Analytic Quantum Thermodynamics
 
 ## Introduction:
 Entropy, as traditionally defined in statistical mechanics, is a measure of disorder based on the logarithm of the number of accessible microstates. While this formulation has been foundational in thermodynamics, it often lacks the resolution and intuitiveness needed to describe the step-by-step evolution of entropy in physical systems. The classical approach focuses primarily on macroscopic end states and provides limited insight into the irreversible dynamics of spontaneous entropy increase.
